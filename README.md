@@ -11,6 +11,3 @@
 
 ---
 
-_Patika.dev profilim:_ [https://app.patika.dev/muhammetaksu](https://app.patika.dev/muhammetaksu)
-
-`Not: Kodluyoruz Algoritma eğitimi kapsamında hazırlamış olduğum ödevim.`
